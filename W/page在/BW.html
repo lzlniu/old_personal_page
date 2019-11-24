@@ -1,60 +1,55 @@
 <!DOCTYPE html>
 <html lang="en" class="">
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>ZELIN's main page</title>
-  <link href="styleB.css" rel="stylesheet" type="text/css">
-  <link href="fonts.css" rel="stylesheet" type="text/css">
-  <script type="text/javascript" src="jquery-3.2.1.min.js"></script>
-  <script type="text/javascript" src="movepage.js"></script>
-  </head>
-<body>
-  
-    <article id="p1">
-	  <div class="header2">
-	    <div id="header2-letter">
-	      <img src="contentO/letter.png" alt="wel">
-	    </div>
-	    <div id="header2-text">
-	      <h1>ZELIN's page</h1>
-          <p>Hello,I'm ZELIN LI,a student of Ocean University of China.</p>
-		  <p>This is the last year at the University, so that I decided to do something chanllanging.</p>
-		  <p>This webpage isn't goodenough, but I've been working hard on it.</p>
-		  <p>So, hopefully you can enjoy it.</p>
-		  <p>You can click the 'Next' buttom below to move to next page.</p>
-		  <p>Why am I used English to illustrate my page?</p>
-		  <p>Maybe because of love!</p>
-		  <p>（Just because English have different Google-font that awesome!）</p>
-	    </div>
-		<div id="next">
-	      <a href="#p2">Next</a>
-		</div>
-	  </div>
-    </article>
-  
-    <article id="p2">
-      <div class="header3">
-	    <div id="header3-text">
-	      <h2>Personal statement</h2>
-		  <h3>Welcome! Sir or Madam.</h3>
-		  <h3>You may pull this page downward or click 'Back' bottom to move to last page.</h3>
-	    </div>
-	    <a href="#p1">Back</a>
-	  </div>
-	
-	  <div class="letterToB">
-	    <div id="letterToB-text">
-	      <h2>This is ZELIN's page</h2>
-		  <h3>you can visit this page's source code and many other stuffs on my Github:</h3>
-		  <h3>https://github.com/lzlniu</h3>
-		  <p>Hello! Today is 11/24/2019</p>
-		  <audio controls="controls" type="audio/mpeg">
-		    <source src="contentO/1981.mp3"/>
-		  </audio>
-	    </div>
-	  </div>
-    </article>
-  
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no"/>
+	<title>ZELIN's main page</title>
+	<link href="content/style.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="content/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src="content/Enter.js"></script>
+    <script type="text/javascript" src="content/togg.js"></script>
+    <script type="text/javascript" src="content/music.js"></script>
+	<link href="fonts.css" rel="stylesheet" type="text/css">
+</head>
+<body onkeydown="keyLogin();">
+    <div class="header">
+        <div id="header_text">
+            <h1>ZELIN's page</h1>
+            <h2>hello world!</h2>
+        </div>
+    </div>  
+    <div class="main">
+        <div id="main_text">
+            <p>Note1: click the transparent dialog box to show the contents.</p>
+            <p>Note2: click the left-side button to play music,while click the right-side button can go to the top.</p>
+        </div>
+        <div id="main_text2">
+            <p>Hello,I'm ZELIN LI,a student from Ocean University of China.</p>
+		    <p>This is my last year at the University, so that I decided to do some crazy things.</p>
+		    <p>Although this webpage isn't good enough, I've been working tough on it.</p>
+		    <p>So, hopefully you might like it.</p>
+        </div>
+        <div id="main_text3">
+            <p>You can find this page's source code and many other stuffs on my Github:</p>
+			<p>https://github.com/lzlniu</p>
+        </div>
+        <div id="main_text4">
+            <p>Text</p>
+        </div>
+        <div id="main_text6">
+            <p>Text</p>
+        </div>
+        <div id="main_text5">
+            <p>Ending</p>
+            <p>Ending subsection</p>
+        </div>
+    </div>
+    <div class="downb">
+        <a href="#header_text"><image src="content/arrow.png"></image></a>
+    </div>
+    <div class="downb2">
+        <audio id="music2" src="content/1981.mp3"  loop="loop" type="audio/mpeg">你的浏览器不支持audio标签</audio> 
+        <a href="javascript:playPause();"><img src="content/pause.gif" width="48" height="50" id="music_btn2" border="0"></a>
+    </div>
 </body>
 </html>
-
