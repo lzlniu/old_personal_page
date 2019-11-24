@@ -78,17 +78,17 @@ a:hover {
 }
 #header_text h2 {
 	font-size:36px;
-	font-family:'Quicksand',cursive,sans-serif;
+	font-family:Quicksand,cursive,sans-serif;
 }
 .main {
 	height:4000px;
 	width:100%;
-	background-color:rgb(239,215,5);
+	background-color:#8968CD;
 	background-position:center center;
 	background-size:cover;
 }
 #main_text {
-	font-family:"Raleway",sans-serif;
+	font-family:Raleway,sans-serif;
 	opacity:0.4;
 	background:#FFF;
 	text-align:center;
