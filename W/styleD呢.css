@@ -2,7 +2,7 @@ body {
 	background-image:url("content你/bgi.jpg");
 	background-position:center center;
 	background-size:cover;
-	height:738px;
+	height:700px;
 	width:100%;
 	margin:0;
 	padding:0;
@@ -33,22 +33,6 @@ h2 {
     font-weight:100;
 }
 
-.icon1 {
-	margin:0 auto;
-	position:relative;
-	top:314px;
-	width:210px;
-	z-index:2;
-}
-
-.icon2 {
-	margin:0 auto;
-	position:relative;
-	top:330px;
-	width:210px;
-	z-index:2;
-}
-
 input::-webkit-input-placeholder {
 	font-family:Microsoft YaHei;
 	color:rgb(200,200,200);
@@ -73,7 +57,7 @@ input:-ms-input-placeholder {
 	border-radius:90%;
 	margin:0 auto;
 	position:relative;
-	top:366px;
+	top:234px;
 	width:105px;
 	height:105px;
 	line-height:0px;

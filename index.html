@@ -11,51 +11,15 @@
   <script type="text/javascript" src="W/jquesnow找.js"></script>
  </head>
 
-<body onkeydown="keyLogin();">
-
+<body onkeydown=KeyDown()>
   <div class="header">
     <h1>ZELIN's page</h1>
 	<h2>Better than mantis shrimp！</h2>
   </div>
-  
   <form name="Form1" method="">
-  <div class="icon1">
-	<img src="W/content你/iconyonghu.png">
-	<input type="text" 
-	name="user" 
-	id="user"
-	style="height:23px;
-	font-size:18px;
-	font-family:Microsoft YaHei;
-	color:rgb(226,226,226);
-	border:0px;
-	background:rgba(255,226,255,0.5);" 
-	size=15 
-	maxlength=12
-	placeholder=" username"
-	onkeydown=KeyDown()>
-  </div>
-	
-  <div class="icon2">
-    <img src="W/content你/iconsuo.png">
-	<input type="password" 
-	name="_pw"
-    id="_pw"	
-	style="height:23px;
-	font-size:18px;
-	font-family:Microsoft YaHei;
-	color:rgb(226,226,226);
-	border:0px;
-	background:rgba(255,226,255,0.5);" 
-	size=15 
-	maxlength=12
-	placeholder=" password"
-	onkeydown=KeyDown()>
-  </div>
-  
-  <button type="submit" name="btnsubmit" class="buttonE" onclick="return login()"> 
+  <button type="submit" name="btnsubmit" class="buttonE" onclick=login()>
     <image src="W/content你/iconR.png">
-  </button></div>
+  </button>
   </form>
   <div class="page_container">
     <canvas width="100%" height="100%" class="snow"></canvas>
@@ -66,9 +30,9 @@
 	      windPower: 0,
 	      speed: 0,
 	      color: "#8968CD",
-	      size:100,
+	      size:25,
 	      opacity: 0.00000001,
-	      count: 25,
+	      count: 10,
 	      interaction: false
 	    });
 	  });
