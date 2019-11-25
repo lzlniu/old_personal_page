@@ -1,5 +1,5 @@
 html,body {
-	background-color:#212121;
+	background-color:#8968CD;
 	padding:0;
 	margin:0;
 	height:667px;
@@ -82,7 +82,6 @@ html,body {
 	font-family:Quicksand,cursive,sans-serif;
 }
 .main {
-	height:4000px;
 	width:100%;
 	background-color:#8968CD;
 	background-position:center center;
@@ -154,10 +153,40 @@ p {
 	border-style:solid;
 	border-color:#FFF transparent transparent;
 }
-#main_text2.togg,#main_text3.togg,#main_text4.togg,#main_text5.togg,#main_text6.togg{
+#main_text2.togg,#main_text3.togg,#main_text4.togg,#main_text5.togg,#main_text6.togg {
 	font-size:20px;
 	font-weight:100;
 	color:#212121;
 	opacity:1;
 	width:66%;
+}
+#DeerWeChat {
+	font-family:Raleway,sans-serif;
+	font-size:20px;
+	font-weight:100;
+	color:rgb(225,225,225);
+	background:#212121;
+	opacity:1;
+	text-align:center;
+	margin:0 auto;
+	padding:20px;
+	top:75px;
+	bottom:75px;
+	width:66%;
+	border-radius:25px;
+	position:relative;
+}
+#DeerWeChat img {
+	width:100%;
+	max-width:320px;
+	overflow:hidden;
+}
+.bottom {
+	bottom:0px;
+	width:100%;
+	text-align:center;
+	padding:2px;
+	color:rgb(225,225,225);
+	background:#212121;
+	background-size:cover;
 }
