@@ -2,7 +2,6 @@ html,body {
 	background-color:#8968CD;
 	padding:0;
 	margin:0;
-	height:667px;
 	word-wrap:break-word;
 }
 .downb {
@@ -168,10 +167,10 @@ p {
 	background:#212121;
 	opacity:1;
 	text-align:center;
-	margin:0 auto;
+	margin:75px auto;
+	margin-bottom:120px;
 	padding:20px;
 	top:75px;
-	bottom:75px;
 	width:66%;
 	border-radius:25px;
 	position:relative;
@@ -181,12 +180,13 @@ p {
 	max-width:320px;
 	overflow:hidden;
 }
-.bottom {
+#bottom {
 	bottom:0px;
 	width:100%;
 	text-align:center;
-	padding:2px;
 	color:rgb(225,225,225);
 	background:#212121;
 	background-size:cover;
+	position:relative;
+	padding:12px;
 }
