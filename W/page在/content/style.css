@@ -159,28 +159,8 @@ p {
 	opacity:1;
 	width:66%;
 }
-#DeerWeChat {
-	font-family:Raleway,sans-serif;
-	font-size:20px;
-	font-weight:100;
-	color:rgb(225,225,225);
-	background:#212121;
-	opacity:1;
-	text-align:center;
-	margin:75px auto;
-	margin-bottom:120px;
-	padding:20px;
-	top:75px;
-	width:66%;
-	border-radius:25px;
-	position:relative;
-}
-#DeerWeChat img {
-	width:100%;
-	max-width:320px;
-	overflow:hidden;
-}
 #bottom {
+	top:75px;
 	bottom:0px;
 	width:100%;
 	text-align:center;
@@ -188,5 +168,12 @@ p {
 	background:#212121;
 	background-size:cover;
 	position:relative;
-	padding:12px;
+	padding-bottom:2px;
+	padding-top:15px;
+	margin-top:75px;
+}
+#bottom img {
+	width:100%;
+	max-width:320px;
+	overflow:hidden;
 }
