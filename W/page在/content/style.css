@@ -89,6 +89,10 @@ html,body {
 p {
 	font-family:Raleway,sans-serif;
 }
+summary {
+	font-family:Raleway,sans-serif;
+	font-size: 20px;
+}
 #main_text {
 	font-family:Raleway,sans-serif;
 	opacity:0.4;
