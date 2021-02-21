@@ -163,6 +163,22 @@ summary {
 	opacity:1;
 	width:66%;
 }
+#main_text2 a,#main_text3 a,#main_text4 a,#main_text5 a,#main_text6 a {
+	opacity:0.4;
+    color:#FFF;
+    width:56%;
+    -webkit-transition:all 1s;
+	-o-transition:all 1s;
+	-moz-transition:all 1s;
+	transition:all 1s;
+}
+#main_text2.togg a,#main_text3.togg a,#main_text4.togg a,#main_text5.togg a,#main_text6.togg a {
+	font-size:20px;
+	font-weight:100;
+	color:#212121;
+	opacity:1;
+	width:66%;
+}
 #bottom {
 	top:75px;
 	bottom:0px;
