@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55c971b4.chunk.css",
+    "main.js": "/static/js/main.2692f457.chunk.js",
+    "main.js.map": "/static/js/main.2692f457.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2d43336d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2d43336d.js.map",
+    "static/js/2.6241cfdb.chunk.js": "/static/js/2.6241cfdb.chunk.js",
+    "static/js/2.6241cfdb.chunk.js.map": "/static/js/2.6241cfdb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.55c971b4.chunk.css.map": "/static/css/main.55c971b4.chunk.css.map",
+    "static/js/2.6241cfdb.chunk.js.LICENSE.txt": "/static/js/2.6241cfdb.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/static/media/bgi.f504b7ff.jpg",
+    "static/media/bioinformatics data skills.49d539a9.png": "/static/media/bioinformatics data skills.49d539a9.png",
+    "static/media/genomes 4.09952b38.png": "/static/media/genomes 4.09952b38.png",
+    "static/media/fonts.css": "/static/media/rale.d17a1411.ttf",
+    "static/media/qrcode.e7f5538b.jpg": "/static/media/qrcode.e7f5538b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d43336d.js",
+    "static/js/2.6241cfdb.chunk.js",
+    "static/css/main.55c971b4.chunk.css",
+    "static/js/main.2692f457.chunk.js"
+  ]
+}
