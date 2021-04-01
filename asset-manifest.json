@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.55c971b4.chunk.css",
-    "main.js": "/static/js/main.b97d8bdb.chunk.js",
-    "main.js.map": "/static/js/main.b97d8bdb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2d43336d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2d43336d.js.map",
-    "static/js/2.6241cfdb.chunk.js": "/static/js/2.6241cfdb.chunk.js",
-    "static/js/2.6241cfdb.chunk.js.map": "/static/js/2.6241cfdb.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.55c971b4.chunk.css.map": "/static/css/main.55c971b4.chunk.css.map",
-    "static/js/2.6241cfdb.chunk.js.LICENSE.txt": "/static/js/2.6241cfdb.chunk.js.LICENSE.txt",
-    "static/media/Main.css": "/static/media/bgi.f504b7ff.jpg",
-    "static/media/bioinformatics data skills.49d539a9.png": "/static/media/bioinformatics data skills.49d539a9.png",
-    "static/media/genomes 4.09952b38.png": "/static/media/genomes 4.09952b38.png",
-    "static/media/fonts.css": "/static/media/rale.d17a1411.ttf",
-    "static/media/qrcode.e7f5538b.jpg": "/static/media/qrcode.e7f5538b.jpg"
+    "main.css": "/lzlniu.github.io-reload/static/css/main.d448213e.chunk.css",
+    "main.js": "/lzlniu.github.io-reload/static/js/main.8066cc2b.chunk.js",
+    "main.js.map": "/lzlniu.github.io-reload/static/js/main.8066cc2b.chunk.js.map",
+    "runtime-main.js": "/lzlniu.github.io-reload/static/js/runtime-main.7f1e90be.js",
+    "runtime-main.js.map": "/lzlniu.github.io-reload/static/js/runtime-main.7f1e90be.js.map",
+    "static/js/2.be444309.chunk.js": "/lzlniu.github.io-reload/static/js/2.be444309.chunk.js",
+    "static/js/2.be444309.chunk.js.map": "/lzlniu.github.io-reload/static/js/2.be444309.chunk.js.map",
+    "index.html": "/lzlniu.github.io-reload/index.html",
+    "static/css/main.d448213e.chunk.css.map": "/lzlniu.github.io-reload/static/css/main.d448213e.chunk.css.map",
+    "static/js/2.be444309.chunk.js.LICENSE.txt": "/lzlniu.github.io-reload/static/js/2.be444309.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/lzlniu.github.io-reload/static/media/bgi.f504b7ff.jpg",
+    "static/media/bioinformatics data skills.49d539a9.png": "/lzlniu.github.io-reload/static/media/bioinformatics data skills.49d539a9.png",
+    "static/media/genomes 4.09952b38.png": "/lzlniu.github.io-reload/static/media/genomes 4.09952b38.png",
+    "static/media/fonts.css": "/lzlniu.github.io-reload/static/media/rale.d17a1411.ttf",
+    "static/media/qrcode.e7f5538b.jpg": "/lzlniu.github.io-reload/static/media/qrcode.e7f5538b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d43336d.js",
-    "static/js/2.6241cfdb.chunk.js",
-    "static/css/main.55c971b4.chunk.css",
-    "static/js/main.b97d8bdb.chunk.js"
+    "static/js/runtime-main.7f1e90be.js",
+    "static/js/2.be444309.chunk.js",
+    "static/css/main.d448213e.chunk.css",
+    "static/js/main.8066cc2b.chunk.js"
   ]
 }
